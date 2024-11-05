@@ -1,6 +1,6 @@
 ## Hellow, World!🌎👋
 
- ⁕ 🔭 I’m undergraduate studen of Software Engineering
+ ⁕ 🔭 I’m undergraduate studen of Software Engineering </br>
  ⁕ 🌱 I’m currently learning SpringBoot 
  ⁕ 👯 I’m looking to collaborate on Enterprise level applications 
  ⁕ 🤔 I’m looking for help with understanding AI Models 
