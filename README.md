@@ -1,9 +1,5 @@
 ## Hellow, World!🌎👋
 
-<!--
-**sarahsyed786/sarahsyed786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
  🔭 I’m undergraduate studen of Software Engineering
  🌱 I’m currently learning SpringBoot 
  👯 I’m looking to collaborate on Enterprise level applications 
